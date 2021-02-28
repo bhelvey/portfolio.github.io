@@ -1,0 +1,22 @@
+main h1 
+    {
+        margin: 24px;
+        font-size: 36px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: gray;
+    }
+.margin-bottom 
+    {
+        margin-bottom: 27px;
+    }
+main
+    {
+        margin: 24px;
+        max-width: 666px;
+        padding: 13 26;
+        font-size: 23px;  
+    }
+main ul text
+    {
+        margin: 23px;
+    }

@@ -1,6 +1,5 @@
 main h1 
     {
-        margin: 24px;
         font-size: 36px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: gray;
@@ -11,12 +10,25 @@ main h1
     }
 main
     {
-        margin: 24px;
-        max-width: 666px;
-        padding: 13 26;
+        margin: 0px;
+        max-width: 720px;
+        padding: 13px 26px;
         font-size: 23px;  
+        text-align: center;
     }
-main ul text
+
+.highlight 
     {
-        margin: 23px;
+    border-radius: 4px;
+    border: 1px solid sienna;
+    }
+
+.links
+    {
+        padding-left: 33px;
+    }
+
+main li 
+    {
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
     }

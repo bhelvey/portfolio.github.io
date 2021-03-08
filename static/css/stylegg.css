@@ -1,34 +1,15 @@
-main h1 {
-  font-size: 36px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: cadetblue;
+body {
+  font-family: "Open Sans", sans-serif;
 }
-.margin-bottom {
-  margin-bottom: 27px;
-}
-main {
-  margin: 0px;
-  padding: 13px 26px;
-  font-size: 23px;
-  text-align: center;
+h1,
+h2,
+h3 {
+  font-family: "Staatliches", cursive;
 }
 
-.highlight {
-  border: 1px solid sienna;
-  border-radius: 3rem;
-  margin: 24px 0 24px -5px;
+a {
+  color: rgb(228, 137, 2);
 }
-
-.links {
-  padding-left: 33px;
-}
-
-main li span {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: center;
-  position: relative;
-  margin: -10px;
-}
-ul {
-  list-style: none;
+a:hover {
+  color: rgb(114, 68, 0);
 }
